@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .contain{
-	width: 80%;
+	max-width: 75em;
 	margin: auto; 
 }
 html{
@@ -546,6 +546,11 @@ footer .last{
 
 
 @media(max-width: 768px){
+	
+	.contain{
+	width:90%;
+	margin:auto;
+	}
 
 	.boxes,
 	
