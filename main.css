@@ -208,8 +208,7 @@ header ul li{
 }
 .work{
 	background: #fafafa;
-	min-height: 100vh;
-	overflow: hidden;	
+	
 }
 .work section#head{
 	font-weight: 700;
@@ -275,8 +274,7 @@ header ul li{
 
 .client{
 	background: #fafafa;
-	min-height: 100vh;
-	overflow: hidden;
+	
 }
 
 .client h1{
@@ -308,8 +306,7 @@ header ul li{
 
 .saying{
 	background: #fafafa;
-	min-height: 100vh;
-	overflow: hidden;
+	
 }
 .saying h1{
 	text-align: center;
@@ -346,8 +343,7 @@ header ul li{
 
 .start{
 	background: #fafafa;
-	min-height: 100vh;
-	overflow: hidden;
+	
 }
 .start h1{
 	text-align: center;
